@@ -1,6 +1,7 @@
 ### 📘 Works
 
- - [Agile Leanstartup DevOps](https://speakerdeck.com/osawatanabe/evolution-of-leanstartup-and-agile)
+ - [AgileとかCI/CDの用語を整理](https://speakerdeck.com/osawatanabe/meaning-of-buzzies)
+ - [Agile Leanstartup DevOpsの歴史](https://speakerdeck.com/osawatanabe/evolution-of-leanstartup-and-agile)
  - [BizDev](https://speakerdeck.com/osawatanabe/interesting-business-models)
 
 ### 🎓  QUALIFICATIONS

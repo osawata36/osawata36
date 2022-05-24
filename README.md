@@ -6,8 +6,9 @@
 
 ### 🎓  QUALIFICATIONS
 
- - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/b8a5c083-40c8-46e8-afad-fc261e37c055/public_url)
- - [Lisenced Scrum Master](https://s3.amazonaws.com/scruminc-certs/SI-2688616)
+ - [AWS認定ソリューションアーキテクトプロフェッショナル/AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/b8a5c083-40c8-46e8-afad-fc261e37c055/public_url)
+ - [Scrum Alliance 認定スクラムマスター/Certified Scrum Master(CSM)](https://www.scrumalliance.org/community/profile/owatanabe)
+ - [Scrum Inc. Lisencedスクラムマスター/Lisenced Scrum Master(LSM)](https://s3.amazonaws.com/scruminc-certs/SI-2688616)
 
 
 ![OsaWatanabe GitHub status](https://github-readme-stats.vercel.app/api?username=OsaWatanabe&show_icons=true&count_private=true&line_height=35)

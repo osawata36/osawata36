@@ -12,8 +12,8 @@
  - [Scrum Inc. Lisencedスクラムマスター/Lisenced Scrum Master(LSM)](https://s3.amazonaws.com/scruminc-certs/SI-2688616)
 
 
-![OsaWatanabe GitHub status](https://github-readme-stats.vercel.app/api?username=OsaWatanabe&show_icons=true&count_private=true&line_height=35)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsaWatanabe)
+![OsaWatanabe GitHub status](https://github-readme-stats.vercel.app/api?username=osawata36&show_icons=true&count_private=true&line_height=35)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osawata36)
 
 <!--
 **OsaWatanabe/OsaWatanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
